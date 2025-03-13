@@ -5,6 +5,9 @@
 ###
 
 <div align="center">
+  <a href="zpayitaz@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/kevin-payanene-171a91257/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -22,7 +25,7 @@
 
 ###
 
-<p align="left">¡Hola!, Mi nombre es Kevin soy diseñador e integrador de multimedia con un gran gusto por la programación y la resolución creativa de problemas. Me encanta enfrentar desafíos y explorar nuevas posibilidades para desarrollar soluciones innovadoras y eficientes.<br><br>📍 Ubicación: Colombia 🇨🇴<br><br>💡 Habilidades:<br>🎨 Multimedia & UI/UX<br>🔧 Desarrollo frontend y backend<br>Siempre estoy en constante aprendizaje, explorando nuevas tecnologías y perfeccionando mis habilidades. 🚀</p>
+<p align="left">¡Hola!, Mi nombre es Kevin soy diseñador e integrador de multimedia con un gran gusto por la programación y la resolución creativa de problemas. Me encanta enfrentar desafíos y explorar nuevas posibilidades para desarrollar soluciones innovadoras y eficientes.<br><br>📍 Ubicación: Colombia 🇨🇴<br>✉️ zpayitaz@gmail.com<br><br>💡 Habilidades:<br>🎨 Multimedia & UI/UX<br>🔧 Desarrollo frontend y backend<br>Siempre estoy en constante aprendizaje, explorando nuevas tecnologías y perfeccionando mis habilidades. 🚀</p>
 
 ###
 
