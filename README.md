@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Soy diseñador e integrador de multimedia con un gran gusto por la programación y la resolución creativa de problemas. Me encanta enfrentar desafíos y explorar nuevas posibilidades para desarrollar soluciones innovadoras y eficientes.<br><br>📍 Ubicación: Colombia 🇨🇴<br><br>💡 Habilidades<br>🎨 Multimedia & UI/UX<br>🔧 Desarrollo frontend y backend<br>Siempre estoy en constante aprendizaje, explorando nuevas tecnologías y perfeccionando mis habilidades. 🚀</p>
+<p align="left">¡Hola!, Mi nombre es Kevin soy diseñador e integrador de multimedia con un gran gusto por la programación y la resolución creativa de problemas. Me encanta enfrentar desafíos y explorar nuevas posibilidades para desarrollar soluciones innovadoras y eficientes.<br><br>📍 Ubicación: Colombia 🇨🇴<br><br>💡 Habilidades:<br>🎨 Multimedia & UI/UX<br>🔧 Desarrollo frontend y backend<br>Siempre estoy en constante aprendizaje, explorando nuevas tecnologías y perfeccionando mis habilidades. 🚀</p>
 
 ###
 
@@ -37,13 +37,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
